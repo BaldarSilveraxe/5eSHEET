@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="3.7236838mm"
+   height="3.9914403mm"
+   viewBox="0 0 3.7236838 3.9914403"
+   version="1.1"
+   id="svg11940">
+  <defs
+     id="defs11934">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15324-3-4-4-0">
+      <path
+         d="M 0,792.004 H 595.274 V 0 H 0 Z"
+         id="path15322-0-2-7-1" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15324-3-4-4-8-7">
+      <path
+         d="M 0,792.004 H 595.274 V 0 H 0 Z"
+         id="path15322-0-2-7-3-4" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15324-3-4-4-8">
+      <path
+         d="M 0,792.004 H 595.274 V 0 H 0 Z"
+         id="path15322-0-2-7-3" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15324-3-4-4">
+      <path
+         d="M 0,792.004 H 595.274 V 0 H 0 Z"
+         id="path15322-0-2-7" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata11937">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-216.0217,-82.690074)"
+     id="g1984">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.42514968;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1501-1-2-8"
+       d="m 219.36331,85.241249 a 0.77407551,0.79307431 0 0 1 -0.7695,0.793061 0.77407551,0.79307431 0 0 1 -0.7786,-0.783675 0.77407551,0.79307431 0 0 1 0.76028,-0.802335 0.77407551,0.79307431 0 0 1 0.7876,0.77418 l -0.77386,0.01877 z" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.23790051;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path1653-6-2"
+       cx="218.58707"
+       cy="85.260101"
+       r="0.83104974" />
+    <g
+       id="g20676-1-5-1"
+       transform="translate(25.863318,-30.541376)">
+      <g
+         id="g15318-5-5-7"
+         transform="matrix(0.35277777,0,0,-0.35277777,39.542461,279.07624)">
+        <g
+           clip-path="url(#clipPath15324-3-4-4)"
+           id="g15320-4-9-2">
+          <g
+             transform="translate(434.1681,459.5038)"
+             id="g15326-9-5-0">
+            <path
+               id="path15328-3-2-1"
+               style="fill:#0a0a0d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 0,0 c -1.836,0 -3.329,1.493 -3.329,3.329 0,1.836 1.493,3.329 3.329,3.329 1.837,0 3.33,-1.493 3.33,-3.329 C 3.33,1.493 1.837,0 0,0 m 0,5.942 c -1.441,0 -2.613,-1.171 -2.613,-2.613 0,-1.441 1.172,-2.613 2.613,-2.613 1.441,0 2.614,1.172 2.614,2.613 0,1.442 -1.173,2.613 -2.614,2.613" />
+          </g>
+        </g>
+      </g>
+      <text
+         id="text16884-7-1-1"
+         style="font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.58750582px;font-family:'Scala Sans LF';-inkscape-font-specification:ScalaSans-BoldLF;writing-mode:lr-tb;fill:#9c9a9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+         transform="rotate(-117.34972)"
+         x="-191.8345"
+         y="116.58318">
+        <tspan
+           id="tspan16882-2-7-3"
+           y="116.58318"
+           x="-191.8345"
+           style="stroke-width:0.35277775">P</tspan>
+      </text>
+      <text
+         id="text16894-4-3-8"
+         style="font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.5875138px;font-family:'Scala Sans LF';-inkscape-font-specification:ScalaSans-BoldLF;writing-mode:lr-tb;fill:#9c9a9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+         transform="rotate(-86.727297)"
+         x="-105.07446"
+         y="197.62268">
+        <tspan
+           id="tspan16892-2-1-3"
+           y="197.62268"
+           x="-105.07446"
+           style="stroke-width:0.35277775">R</tspan>
+      </text>
+      <text
+         id="text16904-5-3-0"
+         style="font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.58750272px;font-family:'Scala Sans LF';-inkscape-font-specification:ScalaSans-BoldLF;writing-mode:lr-tb;fill:#9c9a9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+         transform="rotate(-50.525689)"
+         x="32.518581"
+         y="220.9895">
+        <tspan
+           id="tspan16902-6-7-2"
+           y="220.9895"
+           x="32.518581"
+           style="stroke-width:0.35277775">O</tspan>
+      </text>
+      <text
+         id="text16914-2-2-6"
+         style="font-variant:normal;font-weight:500;font-stretch:normal;font-size:1.58750629px;font-family:'Scala Sans LF';-inkscape-font-specification:ScalaSans-BoldLF;writing-mode:lr-tb;fill:#9c9a9b;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+         transform="rotate(-15.874565)"
+         x="153.26851"
+         y="162.71504">
+        <tspan
+           id="tspan16912-6-0-2"
+           y="162.71504"
+           x="153.26851"
+           style="stroke-width:0.35277775">F</tspan>
+      </text>
+    </g>
+  </g>
+</svg>
