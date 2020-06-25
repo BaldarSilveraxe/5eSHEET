@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css?family=Overpass&display=swap');
+
+.sheet-wrap {
+	min-width: 870px;
+	margin: 0px -10px 0px -10px;
+	font-family: 'Overpass', Arial;
+}
+
+button[type=roll].sheet-btnInline {
+    font: inherit;
+    color: inherit;
+    font-family: inherit!important;
+    -webkit-font-smoothing: inherit;
+    -moz-osx-font-smoothing: inherit;
+    text-align: initial; 
+    text-shadow: initial;
+    vertical-align: initial; 
+	line-height: normal;
+	white-space: normal;
+	box-shadow: none;
+    text-transform: none;
+    background-image: none;
+    -webkit-appearance: none;
+    border: 0;
+    padding: 0;
+    outline: 0;
+    border-radius: 0;
+    margin: 0!important;
+    background-color: transparent;
+}
+
+button[type=roll].sheet-btnInline::-moz-focus-inner {
+    border: 0;
+    padding: 0;
+    border-style: none;
+}
+
+button[type=roll].sheet-btnInline:before {
+	content: ''!important;
+	font-family: inherit!important;
+}
+
+button[type=roll].sheet-btnInline:hover {
+	color: #3f88e6!important;
+}
+
+button[type=roll].sheet-btnInline:active {
+    border: 0;
+    outline: 0;
+    box-shadow: none;
+}
+
+button[type=roll].sheet-btnInline {
+    display: inline-block;
+    width: auto;
+    height: auto;
+    overflow: visible;
+}
+
+span.sheet-btnInline {
+    font: inherit;
+    color: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    font-family: inherit!important;
+    -webkit-font-smoothing: inherit;
+    -moz-osx-font-smoothing: inherit;
+    text-shadow: initial;
+    text-align: left;
+    vertical-align: baseline;
+	line-height: normal;
+	white-space: normal;
+    margin: 0;
+	border: 0;
+	padding: 0;
+}
+
+.sheet-btnContainer {
+    display: table;
+}
+
+.sheet-btnBox {
+    width:100px;
+    height:100px;
+    display: table-cell;
+    background: rgba(175, 80, 76, 0.3);
+}
+
+.sheet-left { text-align: left;}
+.sheet-center { text-align: center;}
+.sheet-right { text-align: right;}
+.sheet-top { vertical-align: top;}
+.sheet-middle { vertical-align: middle;}
+.sheet-bottom { vertical-align: bottom;}
+.sheet-small { font-size: 8px;}
+.sheet-regular { font-size: 12px;}
+.sheet-medium { font-size: 16px;}
+.sheet-large { font-size: 24px;}
+.sheet-huge { font-size: 32px;}
+.sheet-condensed { letter-spacing: -3px; }
+.sheet-bold { font-weight: bold; }
+
