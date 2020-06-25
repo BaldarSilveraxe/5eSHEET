@@ -6,7 +6,8 @@
 	font-family: 'Overpass', Arial;
 }
 
-button[type=roll].sheet-btnInline {
+
+button[type=roll].sheet-button {
     font: inherit;
     color: inherit;
     font-family: inherit!important;
@@ -15,9 +16,9 @@ button[type=roll].sheet-btnInline {
     text-align: initial; 
     text-shadow: initial;
     vertical-align: initial; 
-	line-height: normal;
-	white-space: normal;
-	box-shadow: none;
+    line-height: normal;
+    white-space: normal;
+    box-shadow: none;
     text-transform: none;
     background-image: none;
     -webkit-appearance: none;
@@ -29,63 +30,48 @@ button[type=roll].sheet-btnInline {
     background-color: transparent;
 }
 
-button[type=roll].sheet-btnInline::-moz-focus-inner {
+button[type=roll].sheet-button::-moz-focus-inner {
     border: 0;
     padding: 0;
     border-style: none;
 }
 
-button[type=roll].sheet-btnInline:before {
+button[type=roll].sheet-button:before {
 	content: ''!important;
 	font-family: inherit!important;
 }
 
-button[type=roll].sheet-btnInline:hover {
+button[type=roll].sheet-button:hover {
 	color: #3f88e6!important;
 }
 
-button[type=roll].sheet-btnInline:active {
+button[type=roll].sheet-button:active {
     border: 0;
     outline: 0;
     box-shadow: none;
 }
 
-button[type=roll].sheet-btnInline {
-    display: inline-block;
-    width: auto;
-    height: auto;
-    overflow: visible;
-}
-
-span.sheet-btnInline {
-    font: inherit;
-    color: inherit;
-    font-size: inherit;
-    line-height: inherit;
-    font-family: inherit!important;
-    -webkit-font-smoothing: inherit;
-    -moz-osx-font-smoothing: inherit;
-    text-shadow: initial;
-    text-align: left;
-    vertical-align: baseline;
-	line-height: normal;
-	white-space: normal;
-    margin: 0;
-	border: 0;
-	padding: 0;
-}
-
-.sheet-btnContainer {
+button[type=roll].sheet-button {
     display: table;
 }
 
-.sheet-btnBox {
-    width:100px;
-    height:100px;
+span.sheet-button {
     display: table-cell;
     background: rgba(175, 80, 76, 0.3);
 }
-
+span.sheet-clipped {
+    max-width: 100px;
+    max-height:100px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+span.sheet-wraparound {
+    max-width: 100px;
+    max-height:100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
 .sheet-left { text-align: left;}
 .sheet-center { text-align: center;}
 .sheet-right { text-align: right;}
